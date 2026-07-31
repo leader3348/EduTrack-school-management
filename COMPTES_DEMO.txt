@@ -1,0 +1,22 @@
+═══════════════════════════════════════════════════════
+  EduTrack v3.0 — Comptes de démonstration
+═══════════════════════════════════════════════════════
+
+IMPORTANT : Pour voir le Panel Admin, connectez-vous
+            avec le compte "admin" ou "superadmin".
+
+┌─────────────┬──────────────┬──────────────────────┐
+│ Identifiant │ Mot de passe │ Rôle                 │
+├─────────────┼──────────────┼──────────────────────┤
+│ admin       │ Admin@2025   │ Super Administrateur  │
+│ prof1       │ Prof@2025    │ Professeur            │
+│ student1    │ Student@2025 │ Étudiant              │
+│ viewer1     │ View@2025    │ Observateur           │
+└─────────────┴──────────────┴──────────────────────┘
+
+Le Panel Admin (⚙) apparaît UNIQUEMENT pour
+les rôles : admin et superadmin.
+
+Lancement : python main.py
+Dépendance : pip install reportlab
+═══════════════════════════════════════════════════════

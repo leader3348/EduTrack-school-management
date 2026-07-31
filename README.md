@@ -4,12 +4,16 @@ Application desktop Python (Tkinter + SQLite) pour gérer les étudiants,
 projets, stages, professeurs et statistiques d'un département universitaire.
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 Aprés lancement: Login Information
-Identifiant    Mot de passe    Rôle
-admin            Admin@2025    superadmin
-prof1            Prof@2025      professor
-student1        Student@2025    student
-viewer1          View@2025       viewer
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+## 🔑 Default Login Credentials
+
+| Username | Password | Role |
+|----------|----------|------|
+| `admin` | `Admin@2025` | Super Admin |
+| `prof1` | `Prof@2025` | Professor |
+| `student1` | `Student@2025` | Student |
+| `viewer1` | `View@2025` | Viewer |
+
+> **Note:** These are demo accounts created for testing purposes.
 
 
 ---
